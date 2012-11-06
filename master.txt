@@ -1,1 +1,3 @@
-this is the master.
+this is the master.  And that's awesome
+
+Infact, this is the coolest text file ever!  Never before has any text file had such awesome words in it.
